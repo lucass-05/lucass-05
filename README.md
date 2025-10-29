@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hola — Soy Lucas (ejemplo)
 
-<!--
-**lucass-05/lucass-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido/a a este repositorio de ejemplo que sirve como presentación del proyecto.
 
-Here are some ideas to get you started:
+![Demo GIF](assets/demo.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Descripción
+Proyecto de ejemplo que demuestra cómo presentar un proyecto en GitHub: demo, instalación, tecnologías y contacto.
+
+## Demo en vivo
+https://tu-usuario.github.io/mi-proyecto
+
+## Instalación rápida
+```bash
+git clone https://github.com/tu-usuario/mi-proyecto.git
+cd mi-proyecto
+npm install
+npm start
+```
+
+## Tecnologías
+- Node.js
+- React
+- Tailwind CSS
+
+## Capturas
+![Screenshot](assets/screenshot.png)
+
+## Licencia
+MIT © Tu Nombre
+
+## Contacto
+- Email: tu@correo.com
+- Twitter: @tu_usuario
