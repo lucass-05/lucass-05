@@ -1,34 +1,10 @@
-# Hola — Soy Lucas (ejemplo)
+# Holaa, ¡soy Lucas!
 
-Bienvenido/a a este repositorio de ejemplo que sirve como presentación del proyecto.
+Soy un estudiante de 3º de Ingeniería Informática en la UCM.
 
-![Demo GIF](assets/demo.gif)
 
-## Descripción
-Proyecto de ejemplo que demuestra cómo presentar un proyecto en GitHub: demo, instalación, tecnologías y contacto.
-
-## Demo en vivo
-https://tu-usuario.github.io/mi-proyecto
-
-## Instalación rápida
-```bash
-git clone https://github.com/tu-usuario/mi-proyecto.git
-cd mi-proyecto
-npm install
-npm start
-```
-
-## Tecnologías
-- Node.js
-- React
-- Tailwind CSS
-
-## Capturas
-![Screenshot](assets/screenshot.png)
-
-## Licencia
-MIT © Tu Nombre
+Programo principalmenmte en C++ y Java aunque también uso C, Python, SQL o VHDL entre otros.
 
 ## Contacto
-- Email: tu@correo.com
-- Twitter: @tu_usuario
+- 📩Email: lucasuar@ucm.es
+- 📸Instagram: @lucassuarezzz_
