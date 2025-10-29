@@ -1,15 +1,22 @@
-# Holaa, ¡soy Lucas!
+<h1 align="center"> Holaa, ¡soy Lucas!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucass-05&label=Profile%20views&color=0e75b6&style=flat" alt="lucass-05" /> </p>
 
-Soy un estudiante de 3º de Ingeniería Informática en la UCM.
+<h3 align="center"> Soy un estudiante de 3º de Ingeniería Informática en la UCM.</h3>
 
 
 Programo principalmente en C++ y Java aunque también uso C, Python, SQL o VHDL entre otros.
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucass-05&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
-</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucass-05&show_icons=true&locale=en&layout=compact" alt="lucass-05" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucass-05&show_icons=true&locale=en" alt="lucass-05" /></p>
 
 ## Contacto
 - 📩Email: lucasuar@ucm.es
 - 📸Instagram: @lucassuarezzz_
+<p align="left">
+<a href="https://instagram.com/lucassuarezzz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucassuarezzz_" height="30" width="40" /></a>
+</p>
 
