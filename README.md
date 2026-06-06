@@ -15,7 +15,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucass-05&show_icons=true&locale=en" alt="lucass-05" /></p>
 
 ## Contacto
-- 📩Email: lucasuar@ucm.es
+- 📩Email: lucassuarez1605@gmail.es
 - 📸Instagram: @lucassuarezzz_
 <p align="center">
 <a href="https://instagram.com/lucassuarezzz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucassuarezzz_" height="30" width="40" /></a>
