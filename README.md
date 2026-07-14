@@ -21,6 +21,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
+<div align="center">
+  <img src="./github-metrics.svg" alt="Estadísticas de GitHub" width="520" />
+</div>
+
 ## Proyectos
 
 ### [ProyectoFarmacia](https://github.com/lucass-05/ProyectoFarmacia) · repositorio privado
