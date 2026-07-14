@@ -21,6 +21,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucass-05&layout=compact&locale=es&hide_border=true" alt="lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucass-05&show_icons=true&locale=es&hide_border=true" alt="estadísticas de GitHub" />
+</div>
+
 ## Proyectos
 
 ### [ProyectoFarmacia](https://github.com/lucass-05/ProyectoFarmacia) · repositorio privado
