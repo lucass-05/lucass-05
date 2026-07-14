@@ -22,8 +22,8 @@
 </p>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucass-05&layout=compact&locale=es&hide_border=true" alt="lenguajes más usados" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucass-05&show_icons=true&locale=es&hide_border=true" alt="estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucass-05&layout=compact&locale=es&hide_border=true" alt="lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucass-05&show_icons=true&locale=es&hide_border=true" alt="estadísticas de GitHub" />
 </div>
 
 ## Proyectos
