@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&height=60&lines=Hola%2C+soy+Lucas+Su%C3%A1rez;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+%C2%B7+UCM" alt="Lucas Suárez" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=140&text=Lucas%20Su%C3%A1rez&fontSize=42&fontColor=ffffff&desc=Ingenier%C3%ADa%20Inform%C3%A1tica%20%C2%B7%20UCM&descSize=16&descAlignY=75" alt="Lucas Suárez" />
 
   <img src="https://komarev.com/ghpvc/?username=lucass-05&label=Visitas&color=2c5364&style=flat" alt="visitas al perfil" />
 </div>
