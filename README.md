@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:c0503a&height=170&section=header&text=Lucas%20Su%C3%A1rez&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Ingenier%C3%ADa%20Inform%C3%A1tica%20%C2%B7%20UCM&descSize=16&descAlignY=60" alt="Lucas Suárez" width="100%" />
+  <img src="./assets/banner-header.svg" alt="Lucas Suárez · Ingeniería Informática · UCM" width="100%" />
 
   <img src="https://komarev.com/ghpvc/?username=lucass-05&label=Visitas&color=c0503a&style=flat-square" alt="visitas al perfil" />
 </div>
@@ -105,4 +105,4 @@ Sin cuentas, sin anuncios y funcionan sin conexión (PWA).
   <a href="https://instagram.com/lucassuarezzz_"><img src="https://img.shields.io/badge/Instagram-%40lucassuarezzz__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c0503a,100:1a1a1a&height=90&section=footer" width="100%" alt="" />
+<img src="./assets/banner-footer.svg" alt="" width="100%" />
