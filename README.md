@@ -94,6 +94,8 @@ Sin cuentas, sin anuncios y funcionan sin conexión (PWA).
 </p>
 
 <div align="center">
+  <img src="./github-languages.svg" alt="Lenguajes más usados" width="520" />
+  <br>
   <img src="./github-metrics.svg" alt="Estadísticas de GitHub" width="520" />
 </div>
 
