@@ -1,17 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:c0503a&height=170&section=header&text=Lucas%20Su%C3%A1rez&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Ingenier%C3%ADa%20Inform%C3%A1tica%20%C2%B7%20UCM&descSize=16&descAlignY=60" alt="Lucas Suárez" width="100%" />
 
-  <h3>Hago software que la gente usa de verdad 🚀</h3>
-
-  <p>
-    🎓 Estudiante de 3º de Ingeniería Informática en la UCM<br>
-    💊 Mi software está en uso real en una farmacia<br>
-    🇯🇵 Aprendo japonés y me hago mis propias apps para estudiarlo<br>
-    🎮 Me encanta hacer videojuegos en equipo
-  </p>
-
   <img src="https://komarev.com/ghpvc/?username=lucass-05&label=Visitas&color=c0503a&style=flat-square" alt="visitas al perfil" />
 </div>
+
+<h3 align="center">Soy un estudiante de 3º de Ingeniería Informática en la UCM.</h3>
+
+<h3 align="center">Programo principalmente en C++, Java o JavaScript aunque también uso C, Python, SQL o HTML entre otros.</h3>
 
 <br>
 
@@ -75,9 +70,10 @@ Sin cuentas, sin anuncios y funcionan sin conexión (PWA).
   <tr>
     <td>
       <img src="https://img.shields.io/badge/🔒_Repositorio_privado-555?style=flat-square" alt="privado" />
-      <img src="https://img.shields.io/badge/En_uso_real-2ea44f?style=flat-square" alt="en uso real" />
+      <img src="https://img.shields.io/badge/✓_Terminado-2ea44f?style=flat-square" alt="terminado" />
+      <img src="https://img.shields.io/badge/En_uso_en_farmacias-2ea44f?style=flat-square" alt="en uso en farmacias" />
       <br><br>
-      Aplicación full-stack que usa una oficina de farmacia para gestionar sus fórmulas magistrales:
+      Aplicación full-stack terminada y en uso en farmacias para gestionar las fórmulas magistrales:
       <br><br>
       🧾 Tasación automática según el Concierto farmacéutico de Asturias<br>
       📦 Control de stock por lotes<br>
