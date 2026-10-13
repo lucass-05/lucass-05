@@ -1,7 +1,5 @@
 <div align="center">
   <img src="./assets/banner-header.svg" alt="Lucas Suárez · Ingeniería Informática · UCM" width="100%" />
-
-  <img src="https://komarev.com/ghpvc/?username=lucass-05&label=Visitas&color=c0503a&style=flat-square" alt="visitas al perfil" />
 </div>
 
 <h3 align="center">Soy un estudiante de 3º de Ingeniería Informática en la UCM.</h3>
@@ -10,7 +8,9 @@
 
 <br>
 
-## 🇯🇵 Familia KanaMe
+## 🚀 Proyectos
+
+### 🇯🇵 Familia KanaMe
 
 Dos apps para aprender japonés desde cero, pensadas para el móvil.
 Sin cuentas, sin anuncios y funcionan sin conexión (PWA).
@@ -48,7 +48,7 @@ Sin cuentas, sin anuncios y funcionan sin conexión (PWA).
 
 <sub>HTML · CSS · JavaScript puros, sin dependencias · Service Worker · notificaciones push</sub>
 
-## 🎮 Don't Kill My Date
+### 🎮 Don't Kill My Date
 
 <table>
   <tr>
@@ -64,7 +64,7 @@ Sin cuentas, sin anuncios y funcionan sin conexión (PWA).
   </tr>
 </table>
 
-## 💊 Gestión de farmacia · en producción
+### 💊 Gestión de farmacia · en producción
 
 <table>
   <tr>
