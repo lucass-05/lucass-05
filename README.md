@@ -8,7 +8,7 @@
 
 <br>
 
-## 🚀 Proyectos
+## Proyectos
 
 ### 🇯🇵 Familia KanaMe
 
@@ -97,7 +97,7 @@ Sin cuentas, sin anuncios y funcionan sin conexión (PWA).
   <img src="./github-metrics.svg" alt="Estadísticas de GitHub" width="520" />
 </div>
 
-## 📫 Hablemos
+## Contacto
 
 <p>
   <a href="mailto:lucassuarez1605@gmail.com"><img src="https://img.shields.io/badge/Email-lucassuarez1605%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
