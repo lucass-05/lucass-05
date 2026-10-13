@@ -16,11 +16,15 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    env:
+      # Con el secreto METRICS_TOKEN (token personal con permisos repo y read:user)
+      # las tarjetas incluyen también los repositorios privados.
+      HAS_METRICS_TOKEN: ${{ secrets.METRICS_TOKEN != '' }}
     steps:
       - name: Generar tarjeta de métricas
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: lucass-05
           template: classic
           base: header, repositories
@@ -28,9 +32,10 @@ jobs:
           filename: github-metrics.svg
 
       - name: Generar tarjeta de lenguajes
+        if: env.HAS_METRICS_TOKEN == 'true'
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: lucass-05
           template: classic
           base: ""
