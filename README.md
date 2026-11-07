@@ -64,7 +64,7 @@ Sin cuentas, sin anuncios y funcionan sin conexión (PWA).
   </tr>
 </table>
 
-### 💊 Gestión de farmacia · en producción
+### 💊 Gestión de farmacia
 
 <table>
   <tr>
